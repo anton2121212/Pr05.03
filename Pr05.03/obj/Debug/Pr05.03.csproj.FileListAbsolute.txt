@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Pr05.03\bin\Debug\Pr05.03.exe.config
+C:\Users\Kab-35-6\Desktop\Pr05.03\bin\Debug\Pr05.03.exe
+C:\Users\Kab-35-6\Desktop\Pr05.03\bin\Debug\Pr05.03.pdb
+C:\Users\Kab-35-6\Desktop\Pr05.03\obj\Debug\Pr05.03.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Pr05.03\obj\Debug\Pr05.03.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Pr05.03\obj\Debug\Pr05.03.exe
+C:\Users\Kab-35-6\Desktop\Pr05.03\obj\Debug\Pr05.03.pdb
